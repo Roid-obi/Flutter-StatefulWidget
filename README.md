@@ -4,6 +4,7 @@
 
 run: 
 ```flutter run -d chrome
+```
 
 Flutter run key commands.
 r Hot reload. 
