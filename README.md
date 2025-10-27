@@ -3,7 +3,8 @@
 ## If With Chrome Browser
 
 run: 
-```flutter run -d chrome
+```bash
+flutter run -d chrome
 ```
 
 Flutter run key commands.
